@@ -1,0 +1,26 @@
+{
+  "name": "grunt_lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateus-Resende/grunt_lessons.git"
+  },
+  "author": "Mateus Resende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateus-Resende/grunt_lessons/issues"
+  },
+  "homepage": "https://github.com/Mateus-Resende/grunt_lessons#readme"
+}
