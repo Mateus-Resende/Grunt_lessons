@@ -1,0 +1,7 @@
+default:
+  - 'clean'
+  - 'newer:compass'
+  - 'newer:jshint'
+  - 'newer:jscs'
+  - 'newer:copy'
+  - 'newer:wiredep'
