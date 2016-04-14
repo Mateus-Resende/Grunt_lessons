@@ -5,3 +5,9 @@ default:
   - 'newer:jscs'
   - 'newer:copy'
   - 'newer:wiredep'
+
+serve:
+# do not minify and start the watch task
+
+deploy:
+# minify and do not watch

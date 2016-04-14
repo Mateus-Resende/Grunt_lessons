@@ -1,3 +1,4 @@
-var a = (bla) => {
-  console.log("blabla");
+var a = () => {
+  "use strict";
+  console.log("bla.js");
 };
